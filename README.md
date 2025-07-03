@@ -6,9 +6,9 @@ Hai! Kami dari **Kelompok 1 Premium Class Batch 1** telah menjalankan sebuah mis
 
 ### 👥 Anggota Kelompok:
 
-1. Achmad
+1. Achmad (09.011.DB2025)
 2. Ayi (09.046.DB2025)
-3. Nasri
+3. Nasri (10.003.DB2025)
 4. Ulandari (10.041.DB2025)
 
 Tugas ini adalah bagian dari pelatihan **ECO Techno Leaders**, dengan tujuan membekali peserta kemampuan teknis dan pemahaman terhadap konsep *Green Finance*. Berikut ini adalah hasil analisis kami, yang kami kerjakan dengan penuh semangat dan kerja sama tim.
