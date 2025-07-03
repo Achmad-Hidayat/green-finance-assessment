@@ -1,10 +1,10 @@
-# 🧪 ETL Assessment – Green Finance (Premium Batch 1)
+# 🧪 ETL Assessment – Green Finance (Premium Batch 1) - Kelompok 1
 
 ## Tugas Analisis Green Finance
 
 Hai! Kami dari **Kelompok 1 Premium Class Batch 1** telah menjalankan sebuah misi menarik: menganalisis proyek-proyek energi hijau Indonesia menggunakan Python.
 
-### 👥 Anggota Kelompok:
+### 👥 Anggota Kelompok 1:
 
 1. Achmad (09.011.DB2025)
 2. Ayi (09.046.DB2025)
